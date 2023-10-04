@@ -88,32 +88,52 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+
+## PLACEMENT DATA:
+
 ![Screenshot (44)](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/f725e85a-732e-4a4d-a178-e1a699820c9f)
+
+## SALARY DATA:
 
 ![Screenshot (45)](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/39c9dc01-c66a-46e5-9333-d230cdfa5ef5)
 
+## CHECKING THE NULL() FUNCTION:
+
 ![Screenshot 2023-09-13 084858](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/5c1bf0c1-4caa-43c4-9ff4-f31f25b3122f)
+
+## DATA DUPLICATE:
 
 ![Screenshot 2023-09-13 085046](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/871cd4b3-dd43-41a4-8be2-56320097cce3)
 
+## PRINT DATA:
 
 ![Screenshot 2023-09-13 085208](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/abb468c7-e279-475d-b4c8-44fbb4ff6206)
 
+## DATA STATUS:
 
 ![Screenshot 2023-09-13 085252](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/9cce55e9-3a62-47a6-aefb-19ddeb173b36)
 
+## DATA_STATUS:
 
 ![Screenshot 2023-09-13 085338](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/f756b5d9-89dd-4224-b8bb-c1122399986f)
 
+## Y_PREDICTION ARRAY:
 
 ![Screenshot 2023-09-13 085419](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/07cceb4a-193a-43dd-8fba-d8c862f1352a)
 
+## ACCURACY VALUE:
+
 ![Screenshot 2023-09-13 085501](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/5908fdc5-72fe-4c8b-a8c7-a4ec979a3348)
+
+## CONFUSION ARRAY:
 
 ![Screenshot 2023-09-13 085538](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/b363f111-c807-49be-ad99-65cb5797aeee)
 
+## CLASSIFICATION REPORT:
+
 ![Screenshot 2023-09-13 085642](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/d42f9ca3-7ebc-493e-934e-52367055d00d)
 
+## PREDICTION OF LR:
 
 ![Screenshot 2023-09-13 085740](https://github.com/RENUGASARAVANAN/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119292258/3504f8cb-b14f-4acd-b0dc-86ba5ae71d5f)
 
